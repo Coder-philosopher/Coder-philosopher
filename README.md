@@ -97,8 +97,4 @@ Currently, I'm focused on:
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Coder-philosopher&icon=0&color=0" alt="Profile Views"/>
-  </a>
-</p>
+
